@@ -1,0 +1,5 @@
+testcases\OyoSeachHotelTest.class
+testcases\LoginPageTest.class
+testcases\OyoHomePageTest.class
+steps\LoginPageStep.class
+steps\OYOSteps.class

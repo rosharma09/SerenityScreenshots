@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testcases.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 39.389 s <<< FAILURE! - in testcases.LoginPageTest
+checkLoginFeature(testcases.LoginPageTest)  Time elapsed: 39.389 s  <<< ERROR!
+net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException: 
+Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '6KPDQ13-PC', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: unknown
+	at testcases.LoginPageTest.checkLoginFeature(LoginPageTest.java:33)
+

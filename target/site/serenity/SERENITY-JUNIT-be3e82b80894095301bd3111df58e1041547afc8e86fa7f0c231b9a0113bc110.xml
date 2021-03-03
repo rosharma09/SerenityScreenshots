@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="testcases.LoginPageTest" skipped="0" tests="1" time="39.37" timestamp="2021-01-22 07:26:52"><testcase classname="testcases.LoginPageTest" name="Check login feature"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+pages.LoginPage.enterPasswordIntoPasswordField(LoginPage.java:18)&#13;
+steps.LoginPageStep.enterPassword(LoginPageStep.java:24)&#13;
+testcases.LoginPageTest.checkLoginFeature(LoginPageTest.java:33)&#13;
+</system-err></testcase></testsuite>

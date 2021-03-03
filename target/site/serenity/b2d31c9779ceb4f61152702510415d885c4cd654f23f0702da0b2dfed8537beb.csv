@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Oyo home page test","To check that the user is able to check the hotels for Gurgoan location","SUCCESS","2021-01-22T19:26:52.48+05:30[Asia/Calcutta]","0.0","35.36"
+"Oyo home page test","To check that the user is able to check the hotels for Delhi location","SUCCESS","2021-01-22T19:27:29.096+05:30[Asia/Calcutta]","0.0","22.38"
+"Oyo home page test","To check that the user is able to check the hotels for Mumbai location","SUCCESS","2021-01-22T19:27:52.932+05:30[Asia/Calcutta]","0.0","21.37"
+"Oyo home page test","To check that the user is able to check the hotels for bengaluru location","SUCCESS","2021-01-22T19:28:15.388+05:30[Asia/Calcutta]","0.0","19.61"
